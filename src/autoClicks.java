@@ -5,6 +5,8 @@ public class autoClicks {
 		// TODO Auto-generated method stub
 
 		// Testing the Github integration from remote branch
+		// Changes made from local to remote branch now
+		// Hellow
 	}
 
 }
